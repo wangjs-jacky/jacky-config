@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.2",
+    "husky": "^8.0.3"
+  }
+}
