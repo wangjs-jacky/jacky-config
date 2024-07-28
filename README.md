@@ -8,7 +8,7 @@
 
   > 可通过  https://prism-theme-vars.netlify.app/ 生成 css 变量，生成 VSCode 主题插件。
 
-  ![](/Users/jiashengwang/Library/Application Support/typora-user-images/image-20240728153159085.png)
+  ![](https://vblog-img.oss-cn-shanghai.aliyuncs.com/jacky-blog-vuepress/202407281536447.png)
 
 - `Product Icons`：[Carbon](https://github.com/antfu/vscode-icons-carbon)
 
