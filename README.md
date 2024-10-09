@@ -20,6 +20,10 @@
 
 - `Font`：https://input.djr.com/
 
+### 软件推荐
+
+- `Tickeys`：https://github.com/yingDev/Tickeys
+
 
 
 
