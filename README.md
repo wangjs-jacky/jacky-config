@@ -22,8 +22,9 @@
 
 ### 软件推荐
 
-- `Tickeys`：https://github.com/yingDev/Tickeys
+- `Tickeys`：https://github.com/yingDev/Tickeys 键盘音效
 
+- `Mos`: https://github.com/Caldis/Mos `Mac` 鼠标平滑工具
 
 
 
