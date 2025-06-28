@@ -26,6 +26,20 @@
 
 - `Mos`: https://github.com/Caldis/Mos `Mac` 鼠标平滑工具
 
+- `Raycast`: https://raycast.com/ `macOS` 设计的高效启动器
+
+  > 核心功能: `Quicklink` + 剪贴板历史 + 文件搜索 + 软件启动 + 插件市场（如 emoji 图标） + shell脚本执行
+
+- `Magnet`: https://magnet.crowdcafe.com/  `MacOS` 分屏工具
+
+### 前端开发工具
+
+- `ProxyMan`：强大的 HTTP 代理抓包工具
+
+  核心功能：支持 iOS 或 Android 设备代理 + 支持接口本地映射 + 高阶能力可以编写脚本，如可以不同的请求代理响应。 
+
+- `Apifox`：后端 API 调试工具，并保存为文档，方便管理。
+  
 
 
 
