@@ -32,6 +32,8 @@
 
 - `Magnet`: https://magnet.crowdcafe.com/  `MacOS` 分屏工具
 
+- `LocalSend`: https://github.com/localsend/localsend `Mac`→ `Mobile` 文件互传
+
 ### 前端开发工具
 
 - `ProxyMan`：强大的 HTTP 代理抓包工具
